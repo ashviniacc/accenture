@@ -39,6 +39,7 @@ public static void main(String[] args)throws Throwable {
 			System.out.println("fail");
 		}
 	}
+	System.out.println("Hello all";
 		
 
 	
